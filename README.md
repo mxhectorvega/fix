@@ -1,4 +1,4 @@
-# fix
+# FIX
 Fix libxft-bgra on ArchLinux
 
 For users who use DWM I found a solution for the libxft-bgra problem in AUR since at the moment 05/06/2020 is not working due to lack of maintenance.
