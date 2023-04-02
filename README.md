@@ -13,4 +13,4 @@ Telegram
 https://t.me/ArchLinuxCristo
 
 Chanel
-https://youtube.com/mxhectorvega
+https://youtube.com/@mxhectorvega
